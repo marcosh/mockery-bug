@@ -1,0 +1,18 @@
+{
+    "name": "marcosh/mockery-bug",
+    "authors": [
+        {
+            "name": "Marco Perone",
+            "email": "m.perone@mvlabs.it"
+        }
+    ],
+    "require": {
+        "mockery/mockery": "^0.9.9",
+        "doctrine/orm": "^2.5",
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
